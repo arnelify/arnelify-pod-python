@@ -1,0 +1,16 @@
+  python:
+    container_name: python
+    build:
+      context: .
+      dockerfile: python.dockerfile
+    volumes:
+      - ./pod:/var/www/python/pod
+      - ./src:/var/www/python/src
+    restart: unless-stopped
+    networks:
+      - arnelify-network
+    ports:
+      - "3001:3001"
+    depends_on:
+      - mysql
+    tty: true
