@@ -12,7 +12,7 @@
 * RAM: 4 GB
 
 ## 📦 Installation
-Install to the folder that needs to be created:
+Clone repo:
 ```
 git clone https://github.com/arnelify/arnelify-pod-python.git
 ```
@@ -57,7 +57,7 @@ We are excited to introduce the Arnelify Server for C++ dynamic library! Please 
 Change log:
 
 * Development mode: replaced the g++ with clang++.
-* New <a href="https://github.com/arnelify/arnelify-server-python">Arnelify Server</a>.
+* New <a href="https://github.com/arnelify/arnelify-server-python">Arnelify Server</a>
 * New <a href="https://github.com/arnelify/arnelify-router-python">Arnelify Router</a>
 * New <a href="https://github.com/arnelify/arnelify-broker-python">Arnelify Broker</a>
 * Significant refactoring and optimizations
