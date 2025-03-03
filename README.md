@@ -1,6 +1,6 @@
 <img src="https://static.wikia.nocookie.net/arnelify/images/c/c8/Arnelify-logo-2024.png/revision/latest?cb=20240701012515" style="width:336px;" alt="Arnelify Logo" />
 
-![Arnelify POD for Python](https://img.shields.io/badge/Arnelify%20POD%20for%20Python-0.5.9-yellow) ![C++](https://img.shields.io/badge/C++-2b-red) ![G++](https://img.shields.io/badge/G++-14.2.0-blue) ![Python](https://img.shields.io/badge/Python-3.11.2-blue) ![Nuitka](https://img.shields.io/badge/Nuitka-2.6.4-blue)
+![Arnelify POD for Python](https://img.shields.io/badge/Arnelify%20POD%20for%20Python-0.6.3-yellow) ![C++](https://img.shields.io/badge/C++-2b-red) ![G++](https://img.shields.io/badge/G++-14.2.0-blue) ![Python](https://img.shields.io/badge/Python-3.11.2-blue) ![Nuitka](https://img.shields.io/badge/Nuitka-2.6.4-blue)
 
 ## 🚀 About
 **Arnelify® POD for Python** - is a BackEnd-framework for creating scalable microservices applications.
@@ -50,7 +50,7 @@ Join us to help improve this software, fix bugs or implement new functionality. 
 
 
 ## ⭐ Release Notes
-Version 0.5.9 - Minimalistic dynamic library
+Version 0.6.3 - Minimalistic dynamic library
 
 We are excited to introduce the Arnelify Server for C++ dynamic library! Please note that this version is raw and still in active development.
 
