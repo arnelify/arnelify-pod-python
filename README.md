@@ -50,7 +50,7 @@ Join us to help improve this software, fix bugs or implement new functionality. 
 
 
 ## ⭐ Release Notes
-Version 0.6.3 - Minimalistic dynamic library
+Version 0.6.3 - ORM
 
 We are excited to introduce the Arnelify Server for C++ dynamic library! Please note that this version is raw and still in active development.
 
@@ -60,6 +60,7 @@ Change log:
 * New <a href="https://github.com/arnelify/arnelify-server-python">Arnelify Server</a>
 * New <a href="https://github.com/arnelify/arnelify-router-python">Arnelify Router</a>
 * New <a href="https://github.com/arnelify/arnelify-broker-python">Arnelify Broker</a>
+* New <a href="https://github.com/arnelify/arnelify-orm-python">Arnelify ORM</a>
 * Significant refactoring and optimizations
 
 Please use this version with caution, as it may contain bugs and unfinished features. We are actively working on improving and expanding the framework's capabilities, and we welcome your feedback and suggestions.
